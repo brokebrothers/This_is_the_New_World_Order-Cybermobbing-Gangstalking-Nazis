@@ -60,6 +60,23 @@ This_is_the_New_World_Order-Cybermobbing-Gangstalking-Nazis/
 
 Incoming information and raw plot ideas are stored in `drafts/inbox.md` and then later sorted into `chapters/`, `characters/`, and `research/`.
 
+## 📂 Key Files
+
+### Characters
+- [Thomas D.](characters/rap-artists/thomas-d.md) - Rap artist from Peine, GRU-funded operations
+- [Julius F.](characters/rap-artists/julius-f.md) - Rap artist from Peine, GRU-funded operations
+- [Jasmin F.](characters/international-cells/jasmin-f.md) - Studies connection, Hanover
+- [Jennifer K.](characters/international-cells/jennifer-k.md) - Studies connection, Hanover
+- [Fabian Schüßler](characters/international-cells/fabian-schuessler.md) - Supply chain hacker, alleged GRU asset
+
+### Research
+- [CGI Influencers](research/fake-influencers/cgi-influencers.md) - Synthetic personalities and Disney technology claims
+- [GRU Financial Arrangements](research/state-funding/gru-financial-arrangements.md) - Funding and revenue sharing
+- [Disney Technology Acquisition](research/disney-tools-theft/technology-acquisition.md) - Technology theft and capabilities
+
+### Chapters
+- [Peine Cell Formation](chapters/german-operations/peine-cell-formation.md) - German operations cell development
+
 ## 🎯 Project Goals
 
 - **Document the 2020 Formation**: Chronicle the unlikely alliance between German rap artists and VFX compositors
