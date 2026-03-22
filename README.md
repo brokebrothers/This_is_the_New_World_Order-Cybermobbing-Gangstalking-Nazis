@@ -56,6 +56,10 @@ This_is_the_New_World_Order-Cybermobbing-Gangstalking-Nazis/
 └── resources/                # Additional materials and references
 ```
 
+## 🗃️ Working Notes
+
+Incoming information and raw plot ideas are stored in `drafts/inbox.md` and then later sorted into `chapters/`, `characters/`, and `research/`.
+
 ## 🎯 Project Goals
 
 - **Document the 2020 Formation**: Chronicle the unlikely alliance between German rap artists and VFX compositors
@@ -177,3 +181,12 @@ For questions, feedback, or collaboration requests:
 ---
 
 **Note**: This is a work of fiction intended for educational and awareness purposes. Any resemblance to real persons, living or dead, or actual events is purely coincidental, unless explicitly stated as based on documented accounts.
+
+The truth is hidden in the net!
+
+- https://github.com/hartmannlauterbach
+- https://github.com/cybermobbing-untersuchung
+- https://github.com/mrbloxx
+- https://github.com/mr-bloxx
+- https://github.com/entwicklerkatze87
+- https://github.com/brokebrothers
